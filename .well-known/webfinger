@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
+  <Link rel="lrdd" type="application/xrd+xml" template="https://social.orangechair.org/.well-known/webfinger?resource=acct:ag@orangechair.org"/>
+</XRD>
