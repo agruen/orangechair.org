@@ -1,0 +1,24 @@
+{
+    "subject": "acct:ag@orangechair.org",
+    "aliases": [
+        "https://social.orangechair.org/@ag",
+        "https://social.orangechair.org/users/ag",
+        "ag@orangechair.org"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://social.orangechair.org/@ag"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://social.orangechair.org/users/ag"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://social.orangechair.org/authorize_interaction?uri={uri}"
+        }
+    ]
+}
